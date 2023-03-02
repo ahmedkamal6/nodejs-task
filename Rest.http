@@ -1,0 +1,6 @@
+POST  http://localhost:8080/api/ERC-20-info
+Content-Type: application/json
+
+{
+    "contractAddress":"0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26"
+}
